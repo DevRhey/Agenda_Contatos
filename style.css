@@ -1,0 +1,11 @@
+.container {
+  width: 300px; /* ajuste o valor conforme necessário */
+  height: 100px; /* ajuste o valor conforme necessário */
+  background-color: #f0f0f0;
+  position: absolute;
+  top: 0;
+  left: 50%;
+  margin-top: 50px;
+  text-align: center;
+  transform: translate(-50%);
+}
